@@ -39,7 +39,7 @@ export default defineConfig({
     description: '内部展示组件库',
     lang: 'cn-ZH',
     lastUpdated: true,
-    base: '/test/',
+    base: '/vitepress/',
     themeConfig: {
         logo: '/logo.png',
         siteTitle: '组件库标题',
